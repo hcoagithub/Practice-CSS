@@ -4,3 +4,14 @@ body {
 .rounded {
 	border-radius: 100%;
 }
+
+div {
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	background-position-x: center;
+	background-position-y: center;
+	background-image: none;
+	object-fit: cover;
+	object-position: center;
+}
